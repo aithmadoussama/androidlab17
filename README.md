@@ -284,3 +284,4 @@ Ce mécanisme est très utilisé dans les applications Android modernes.
 
 ---
 
+https://github.com/user-attachments/assets/ffb9066e-d1e7-45ea-99a0-d41138de65a3
